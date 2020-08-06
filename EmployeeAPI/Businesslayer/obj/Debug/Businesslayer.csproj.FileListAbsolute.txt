@@ -1,0 +1,11 @@
+D:\Mocero_Projects\popup\EmployeeAPI\Businesslayer\bin\Debug\Businesslayer.dll
+D:\Mocero_Projects\popup\EmployeeAPI\Businesslayer\bin\Debug\Businesslayer.pdb
+D:\Mocero_Projects\popup\EmployeeAPI\Businesslayer\bin\Debug\DataAccessLayer.dll
+D:\Mocero_Projects\popup\EmployeeAPI\Businesslayer\bin\Debug\EntityLayer.dll
+D:\Mocero_Projects\popup\EmployeeAPI\Businesslayer\bin\Debug\DBLibrary.dll
+D:\Mocero_Projects\popup\EmployeeAPI\Businesslayer\bin\Debug\DataAccessLayer.pdb
+D:\Mocero_Projects\popup\EmployeeAPI\Businesslayer\bin\Debug\EntityLayer.pdb
+D:\Mocero_Projects\popup\EmployeeAPI\Businesslayer\bin\Debug\DBLibrary.pdb
+D:\Mocero_Projects\popup\EmployeeAPI\Businesslayer\obj\Debug\Businesslayer.csprojResolveAssemblyReference.cache
+D:\Mocero_Projects\popup\EmployeeAPI\Businesslayer\obj\Debug\Businesslayer.dll
+D:\Mocero_Projects\popup\EmployeeAPI\Businesslayer\obj\Debug\Businesslayer.pdb

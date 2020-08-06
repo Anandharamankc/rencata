@@ -1,0 +1,5 @@
+D:\Mocero_Projects\popup\EmployeeAPI\EntityLayer\bin\Debug\EntityLayer.dll
+D:\Mocero_Projects\popup\EmployeeAPI\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\Mocero_Projects\popup\EmployeeAPI\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+D:\Mocero_Projects\popup\EmployeeAPI\EntityLayer\obj\Debug\EntityLayer.dll
+D:\Mocero_Projects\popup\EmployeeAPI\EntityLayer\obj\Debug\EntityLayer.pdb

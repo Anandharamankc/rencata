@@ -1,0 +1,5 @@
+D:\Mocero_Projects\popup\EmployeeAPI\DBLibrary\bin\Debug\DBLibrary.dll
+D:\Mocero_Projects\popup\EmployeeAPI\DBLibrary\bin\Debug\DBLibrary.pdb
+D:\Mocero_Projects\popup\EmployeeAPI\DBLibrary\obj\Debug\DBLibrary.csprojResolveAssemblyReference.cache
+D:\Mocero_Projects\popup\EmployeeAPI\DBLibrary\obj\Debug\DBLibrary.dll
+D:\Mocero_Projects\popup\EmployeeAPI\DBLibrary\obj\Debug\DBLibrary.pdb

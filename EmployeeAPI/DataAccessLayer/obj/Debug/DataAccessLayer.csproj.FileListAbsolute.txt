@@ -1,0 +1,9 @@
+D:\Mocero_Projects\popup\EmployeeAPI\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Mocero_Projects\popup\EmployeeAPI\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Mocero_Projects\popup\EmployeeAPI\DataAccessLayer\bin\Debug\DBLibrary.dll
+D:\Mocero_Projects\popup\EmployeeAPI\DataAccessLayer\bin\Debug\EntityLayer.dll
+D:\Mocero_Projects\popup\EmployeeAPI\DataAccessLayer\bin\Debug\DBLibrary.pdb
+D:\Mocero_Projects\popup\EmployeeAPI\DataAccessLayer\bin\Debug\EntityLayer.pdb
+D:\Mocero_Projects\popup\EmployeeAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Mocero_Projects\popup\EmployeeAPI\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Mocero_Projects\popup\EmployeeAPI\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
